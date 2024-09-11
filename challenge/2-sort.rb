@@ -28,6 +28,7 @@ ARGV.each do |arg|
   if !is_inserted
     result << i_arg
   end
+end
+
 
 puts result
-end
